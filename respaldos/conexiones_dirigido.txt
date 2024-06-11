@@ -1,0 +1,20 @@
+cruz_roja direccion_regional_de_salud 50
+direccion_regional_de_salud colegio_sagrado_corazon_de_jesus 400
+direccion_regional_de_salud escuela_don_simon_rodriguez 400
+colegio_sagrado_corazon_de_jesus plaza_las_madres 35
+plaza_las_madres vicerrectorado_de_produccion_agricola 40
+plaza_las_madres parque_los_samanes 95
+gobernacion banco_de_venezuela 10
+banco_de_venezuela banco_caribe 90
+banco_caribe sarep 45
+sarep libreria_andres_bello 20
+libreria_andres_bello plaza_coromoto 350
+plaza_coromoto concha_acustica 20
+universidad_de_las_ciencias_y_la_salud banco_sofitasa 330
+banco_sofitasa toro_gordo 30
+toro_gordo banesco 260
+banesco modulo_policial_del_centro 140
+edificio_zafiro cantv 90
+colegio_adventista_andres_bello dip 540
+dip muro_de_los_lamentos 250
+
